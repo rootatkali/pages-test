@@ -30,7 +30,7 @@ content:
         type: string
       - name: description
         label: Website description
-        type: string
+        type: text
         description: Will be provused for any page with no description.
       - name: url
         label: Website URL
