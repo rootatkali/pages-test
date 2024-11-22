@@ -36,6 +36,10 @@ content:
         label: Website URL
         type: string
         pattern: ^(https?:\/\/)?(www\.)?[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}(\/[^\s]*)?$
+      - name: baseurl
+        label: Website path
+        type: string
+        description: The base path of the website (e.g. /blog)
       - name: cover
         label: Preview image
         type: image
