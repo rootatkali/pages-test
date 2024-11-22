@@ -27,7 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/pages-test/" # the subpath of your site, e.g. /blog
 url: "https://rootatkali.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  rootatkali
-
+theme: jekyll-shell-theme
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
